@@ -1,0 +1,6 @@
+{
+  "name": "PSP Comic Reader",
+  "description": "Retro digital comic reader with iconic Sony PSP styling, responsive XMB menus, and animated wave background effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
